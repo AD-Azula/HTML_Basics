@@ -1,3 +1,5 @@
-# hello-world
-Just a basic repo
-Emilio Gallegos,pleased to meet you.
+# HTML
+
+My journey through the basics of HTML. Here
+
+The overall idea is to create a Fandom Site for the popular TV Sitcom "Frasier".
