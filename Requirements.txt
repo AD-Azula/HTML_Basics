@@ -1,0 +1,36 @@
+Main Page: 
+
+-Characters 
+-Seasons
+-Trivia
+-Photos
+
+
+Characters: 
+-Main Characters
+    Quote > Character > Story > Episodes > First seen/ Last seen > Portrayed by:
+-Supporting Characters 
+    Character > Story > Seasons > First seen/ Last seen > Portrayed by:
+
+
+Seasons:
+-Season 1
+-Season 2
+-Season 3
+-Season 4
+-Season 5
+-Season 6
+-Season 7
+-Season 8
+-Season 9
+-Season 10
+-Season 11
+
+Trivia:
+-Did you know?
+
+Photos:
+-Gallery of Season 1 
+-Gallery of Season 2
+-Gallery of Season 3 
+-Gallery of Season 4 

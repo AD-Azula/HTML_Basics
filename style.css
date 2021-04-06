@@ -1,0 +1,50 @@
+//body {
+  background-image: url("images/cast.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+img.fras {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+img.niles {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+img.marty {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+img.daph {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+img.roz {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+img.ed {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+h1.title {
+  font-weight: bold;
+}
+
+p.me {
+  font-family: Script;
+}
