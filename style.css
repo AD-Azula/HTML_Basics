@@ -1,8 +1,100 @@
+* {
+  margin: 10;
+  padding: 10;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+p.me {
+  text-align: right;
+}
+
+header {
+  width: 90%;
+  max-width: 1000px;
+  margin: 20px auto;
+}
+
+header nav {
+  background: #570000;
+  overflow: hidden;
+}
+
+header nav ul {
+  list-style: none;
+}
+
+header nav ul li {
+  float: left;
+}
+
+header nav ul li a {
+  padding: 10px 20px;
+  display: block;
+  color: #fff;
+  text-decoration: none;
+}
+
 body {
-  background-image: url("images/cast.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+  background: #ffd6d6;
+}
+
+body nav {
+  overflow: hidden;
+}
+
+body nav ul {
+  list-style: none;
+}
+
+body nav ul li {
+  float: left;
+}
+
+body nav ul li a {
+  padding: 15px 25px;
+  display: block;
+  color: #fff;
+  text-decoration: none;
+}
+
+.main,
+.articles {
+  width: 68.5%;
+  margin-right: 1.5%;
+  float: left;
+  background: #ffd6d6;
+}
+
+.main,
+.articles,
+article {
+  padding: 20px;
+  background: #ffd6d6;
+  margin-bottom: 20px;
+}
+
+aside,
+p.sidenote {
+  width: 25%;
+  padding: 20px;
+  background: #ffd6d6;
+  float: left;
+  box-sizing: border-box;
+}
+
+h1.title {
+  font-weight: bold;
+}
+
+p.me {
+  font-family: Script;
 }
 
 img.fras {
@@ -40,11 +132,18 @@ img.ed {
   height: 100px;
   border-radius: 50px;
 }
-
-h1.title {
-  font-weight: bold;
+p,
+h3,
+h4 {
+  color: white;
+  font-size: 20px;
+  text-shadow: 0.05em 0 black, 0 0.05em black, -0.05em 0 black, 0 -0.05em black,
+    -0.05em -0.05em black, -0.05em 0.05em black, 0.05em -0.05em black,
+    0.05em 0.05em black;
 }
 
-p.me {
-  font-family: Script;
+h3,
+h4 {
+  font-size: 30px;
+  font-family: cursive;
 }
